@@ -1,0 +1,40 @@
+body {
+  background-color:#ffffff;
+}
+h1 {color: #EB6C60;  font-family: "Montserrat", sans-serif; font-size: 60px;
+}
+
+h2 {color: #EB608C;   font-family: "Montserrat", sans-serif;
+}
+
+h3 {font-family: "Oswald", sans-serif;}
+p {color: #663A8F; font-family: "Montserrat", sans-serif;}
+
+.leadGraph {background-color: #412F34; color: #EAEAEA; font-weight: bold; font-size: 1rem;}
+
+.leadPhoto {margin-right: 20px;}
+
+a {color: #1DE2E0; text-decoration: none;}
+a:hover {color: #666666; text-decoration: underline; }
+
+.headerBox {
+  background-color: #EAEAEA;
+  text-align: center;
+  padding: 20px;
+}
+
+
+.montserrat-<uniquifier> {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
